@@ -83,7 +83,7 @@ button:hover {
 button:active {
     box-shadow: inset 0px 0px 10px 0px #000;
     transform: scale(1);
-    transition: 0.2s;
+    transition: 0.1s;
 }
 #numero0, #operadorflutuante{
     position: relative;
